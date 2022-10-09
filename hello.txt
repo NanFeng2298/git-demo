@@ -8,4 +8,4 @@ Hello Git!
 Hello Git!
 hot-fix has created 2022 10 9
 push sussceful
-push warning test
+push warning test!
